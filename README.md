@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+<!--<a href="https://ibb.co/cr3jhTb"><img src="https://i.ibb.co/yQPrFsh/Giulliana.png" alt="Giulliana" border="0"></a>
 **giullliana/giullliana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
