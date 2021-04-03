@@ -1,11 +1,10 @@
  👋
-Graduação -Fisioterapia(Bacharelado), 
+ <a href="https://ibb.co/803Xw6w"><img src="https://i.ibb.co/TkXrGmG/Giulliana.png" alt="Giulliana" border="0"></a>
+ 
+ Graduação -Fisioterapia(Bacharelado), 
  Participante do Bootcamp da Generation em Transição de carreira para DevOps Full Stack Jr.
-<a href="https://ibb.co/cr3jhTb"><img src="https://i.ibb.co/yQPrFsh/Giulliana.png" alt="Giulliana" border="0"></a>
 
-<!--<a href="https://ibb.co/cr3jhTb"><img src="https://i.ibb.co/yQPrFsh/Giulliana.png" alt="Giulliana" border="0"></a>
-**giullliana/giullliana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Participando do Bootcamp Generation 
+
 
 Here are some ideas to get you started:
 
