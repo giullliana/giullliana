@@ -7,4 +7,4 @@
  👋 
 
 
-![Snake animation](https://github.com/giullliana/giullliana/blob/output/github-contribution-grid-snake.svg)
+[Snake animation](https://github.com/giullliana/giullliana/blob/output/github-contribution-grid-snake.svg)
