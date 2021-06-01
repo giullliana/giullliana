@@ -5,3 +5,6 @@
 - 👯 I am in  a career transition ;
 - ⚡ Fun fact: I'm graduated in physiotherapy 
  👋 
+
+
+![Snake animation](https://github.com/giullliana/giullliana/blob/output/github-contribution-grid-snake.svg)
